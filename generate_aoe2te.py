@@ -5,7 +5,7 @@ import os
 import keyvalue
 from pathlib import Path
 from genieutils.datfile import DatFile
-from constants import *
+from constants import civilizations
 
 AOE2DE_ABSPATH = Path("C:/Program Files (x86)/Steam/steamapps/common/AoE2DE")
 MODS_ABSPATH = Path.home() / "Desktop"
