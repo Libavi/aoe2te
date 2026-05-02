@@ -1,0 +1,2 @@
+2026-02-27 - v0.1.0:
+- removed Shu, Wei, Wu & Chronicles civilizations
